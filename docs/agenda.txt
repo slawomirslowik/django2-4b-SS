@@ -1,0 +1,2 @@
+2024-10-09 - WIdok łączący Questions
+2024-10-16 - WIdoki generujace html (SZABLON)
