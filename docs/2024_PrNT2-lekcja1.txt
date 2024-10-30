@@ -4,7 +4,7 @@ I. Windows
     3. Zainstaluj PyCharm Community Edition 2022.2.2 (https://www.jetbrains.com/edu-products/download/other-PCE.html)
     4. Zainstaluj Notepad++ lub Visual Studio Code
     N@uczyciel_ZSL
-	
+
 II. Github
     1. Stwórz konto na GitHubie (o ile nie masz)
     2. Wygeneruj na GitHubie personal access token (classic) i gdzies zapisz

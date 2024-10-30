@@ -14,6 +14,7 @@ def detail(request, question_id):
         question = Question.objects.get(pk=question_id)
         logger.info("Found question: " + str(question_id))
     except Question.DoesNotExist:
+        logger.error("Question does not exist. ID: " + str(question_id))
         raise Http404("Question does not exist")
     return render(request, "polls/detail.html", {"question": question})
 
